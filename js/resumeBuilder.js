@@ -90,7 +90,7 @@ var projects = {
       'images': ['images/port.jpg']
     },
     {
-      'title': 'Protoype',
+      'title': 'Prototype',
       'dates': 'September 2017',
       'description': 'Prototype I created from scratch using Adobe XD.',
       'images': ['images/prototype.jpg']
