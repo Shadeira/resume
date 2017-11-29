@@ -87,7 +87,7 @@ var projects = {
       'title': 'Udacity Portfolio',
       'dates': '2017',
       'description': 'Portfolio with examples of my pervious work from Udacity and personal site.',
-      'images': ['images/port.jpg']
+      'images': ['']
     },
     {
       'title': 'Prototype',
@@ -183,7 +183,7 @@ var education = {
 };
 
 bio.display();
-work.display();
+work.display(); 
 projects.display();
 education.display();
 
