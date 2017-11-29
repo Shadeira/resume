@@ -4,13 +4,13 @@ var bio = {
   "name": "Shadeira Nesmith",
     "role": "Front-end Web Developer",
     "contacts": {
-        "mobile": "201-705-9614",
+        "mobile": 
         "email": "snesmith.code@gmail.com",
         "github": "shadeira",
         "location": "New York, NY"
   },
   "biopic": "images/resume_shadeira.jpg",
-    "skills": ["HTML", "CSS", "Javascript", "jQuery", "Shopfiy", "Sublime Text", "Adobe XD"],
+    "skills": ["HTML", "CSS", "Javascript", "jQuery", "Sublime Text", "Adobe XD"],
     "welcomeMessage": "Welcome to my Resume",
 
   display: function() {
@@ -186,4 +186,4 @@ bio.display();
 work.display();
 projects.display();
 education.display();
-$('#mapDiv').append(googleMap);
+
